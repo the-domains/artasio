@@ -1,0 +1,14 @@
+layout_spectrum: 0.3584731495939195
+typography_spectrum: 0.29201827570796013
+color:
+  brandStrength: 0.9928745403885841
+  lightness: 0.6011675666086376
+  saturation: 0.29201114433817565
+  rhythmicContrast: 0.05965730547904968
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: artasio
